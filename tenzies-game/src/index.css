@@ -59,3 +59,9 @@ button.roll-dice {
   font-size: 1.2rem;
   font-family: "Inter", sans-serif;
 }
+.tenzei-title{
+  font-size: 1.8rem;
+}
+.instructions{
+  text-align: center;
+}
